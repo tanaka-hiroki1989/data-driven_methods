@@ -1,11 +1,19 @@
-<script type="text/x-mathjax-config">MathJax.Hub.Config({tex2jax:{inlineMath:[['\$','\$'],['\\(','\\)']],processEscapes:true},CommonHTML: {matchFontHeight:false}});</script>
 <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+<script type="text/x-mathjax-config">
+ MathJax.Hub.Config({
+ tex2jax: {
+ inlineMath: [['$', '$'] ],
+ displayMath: [["$$","$$"]]
+ }
+ });
+</script>
 
-## VAC (Variational approach for conformation dynamics)
+
+## VAC (Variational approach for conformation dynamics) 
 - Concept
- Given a (classical) molecular dynamics trajectory with configurations {x_1, ..., x_T}, and a set of basis functions defined on the space of configurations {chi_1(x), ..., chi_n(x)}, we compute the two correlation matrices:
+ Given a (classical) molecular dynamics trajectory with configurations $\{x_1, ..., x_T\}$, and a set of basis functions defined on the space of configurations $\{\chi_1(x), \dots, \chi_n(x)\}$, we compute the two correlation matrices:
 
-\\[c_ij (0) = < chi_i(x_t) chi_j(x_t) >_t c_ij (tau) = < chi_i(x_t) chi_j(x_t+tau) >_t\\]
+$$c_{ij}(0) = \langle \chi_i(x_t) \chi_j(x_t) \rangle_t c_{ij} (\tau) = \langle \chi_i(x_t) \chi_j(x_t+\tau) \rangle_t$$
 
 where < . >_t is average over time t. Of course this can be generalized to many trajectories. Then we solve the generalized eigenvalue problem
 
