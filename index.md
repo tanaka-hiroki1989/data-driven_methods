@@ -3,17 +3,14 @@
 
 ## VAC (Variational approach for conformation dynamics)
 
-\\[
-A=U\Sigma V^{\top}
-\\]
+
 
 - Paper
 
    [Noe, F. and Nueske, F. (2013): A variational approach to modeling slow processes in stochastic dynamical systems. SIAM Multiscale Model. Simul. 11, 635-655.]()  
 
 - Code 
-  
-  [markovmodel/variational](https://github.com/markovmodel/variational)
+  - origin  [markovmodel/variational](https://github.com/markovmodel/variational)
 
 ## VAMP (Variational approach for Marokov process)
 - Paper []()
@@ -21,20 +18,25 @@ A=U\Sigma V^{\top}
 
 ## VAMPnets
 - Paper []()
-- Code []()
+- Code 
+  - origin [markovmodel/deeptime](https://github.com/markovmodel/deeptime)
 
 ## SRV (state-free reversible VAMPnets)
 - Paper []()
-- Code []()
+- Code
+  - origin [hsidky/srv](https://github.com/hsidky/srv)
 
 ## GDynet
 - Paper
 - Code
+  - origin [txie-93/gdynet](https://github.com/txie-93/gdynet)
 
 ## RPnet
 - Paper
-- Code
+- Code 
+  - origin [ghl1995/BpNet-limping](https://github.com/ghl1995/BpNet-lumping)
 
 ## GraphVAMPnets
 - Paper
 - Code
+  - origin [ghorbanimahdi73/GraphVampnet](https://github.com/ghorbanimahdi73/GraphVampNet)
