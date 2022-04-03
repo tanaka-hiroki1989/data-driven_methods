@@ -2,8 +2,8 @@
 <script type="text/x-mathjax-config">
  MathJax.Hub.Config({
  tex2jax: {
- inlineMath: [['$', '$'] ],
- displayMath: [["$$","$$"]]
+    inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+    displayMath: [ ['$$','$$'], ["\\[","\\]"] ]
  }
  });
 </script>
@@ -13,11 +13,18 @@
 ### Concept
  Given a (classical) molecular dynamics trajectory with configurations $\{x_1, ..., x_T\}$, and a set of basis functions defined on the space of configurations $\{\chi_1(x), \dots, \chi_n(x)\}$, we compute the two correlation matrices:
 
-$$c_{ij}(0) = \langle \chi_i(x_t) \chi_j(x_t) \rangle_t c_{ij} (\tau) = \langle \chi_i(x_t) \chi_j(x_t+\tau) \rangle_t$$
+$$
+\begin{align*}
+c_{ij}(0) &= \langle \chi_i(x_t) \chi_j(x_t) \rangle_t,\\ 
+c_{ij} (\tau) &= \langle \chi_i(x_t) \chi_j(x_t+\tau) \rangle_t
+\end{align*}
+$$
 
 where < . >_t is average over time t. Of course this can be generalized to many trajectories. Then we solve the generalized eigenvalue problem
 
-\\[C(tau) r = C(0) r l(tau)\\]
+$$
+C^r(\tau)^r = C(0)^r l(tau)
+$$
 
 where the eigenvalues l(tau) approximate the dominant eigenvalues of the Markov propagator or Markov backward propagator of the underlying dynamics. The corresponding eigenfunction of the backward propagator is approximated by
 
@@ -29,6 +36,7 @@ where the eigenvalues l(tau) approximate the dominant eigenvalues of the Markov 
   - origin :  [markovmodel/variational](https://github.com/markovmodel/variational)
   - forked : [tanaka-hiroki1989/variational](https://github.com/tanaka-hiroki1989/variational)
   - [markovmodel/PyEMMA](https://github.com/markovmodel/PyEMMA/tree/devel/pyemma)
+
 ## VAMP (Variational approach for Marokov process)
 ### Paper 
   - [Wu, Hao, and Frank Noé. "Variational approach for learning Markov processes from time series data." Journal of Nonlinear Science 30.1 (2020): 23-66.](https://link.springer.com/article/10.1007/s00332-019-09567-y)\[[BibTex](https://scholar.googleusercontent.com/scholar.bib?q=info:lFqWUORfdYEJ:scholar.google.com/&output=citation&scisdr=CgXkEEvhEJeMq7TtHvg:AAGBfm0AAAAAYknoBvg9-0MnwBBYw8z-zyOyYvoUaX1h&scisig=AAGBfm0AAAAAYknoBr-8uwhO_ozQlTzTL2iO78giH7Y1&scisf=4&ct=citation&cd=-1&hl=ja)\]
