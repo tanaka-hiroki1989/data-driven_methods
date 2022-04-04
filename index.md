@@ -109,8 +109,8 @@ $$
 ### Code 
   - origin [ghl1995/BpNet-limping](https://github.com/ghl1995/BpNet-lumping)
 
-## GraphVAMPnets
-
+## GraphVAMPnet
+![GraphVAMPnet](https://github.com/ghorbanimahdi73/GraphVampNet/raw/main/figure_1.png)
 ### Results
   1. Trpcage
   2. Villin
@@ -124,5 +124,11 @@ $$
   - origin [ghorbanimahdi73/GraphVampnet](https://github.com/ghorbanimahdi73/GraphVampNet)
 
 ## DeepGenMSM
+
+### results
+  1. 1D four well Prinz potential 
+  2. alanine dipeptide
 ### Paper
+
 ### Code
+  - [amardt/DeepGenMSM](https://github.com/amardt/DeepGenMSM)
