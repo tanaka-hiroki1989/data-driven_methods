@@ -28,7 +28,7 @@ where $\langle\cdot\rangle_t$ is average over time $t$.
 Then we solve the generalized eigenvalue problem
 
 $$
-C_\tau \bm{r} = C_0 \bm{r} l(\tau)
+C_\tau r = C_0 r l(\tau)
 $$
 
 where the eigenvalues $l(\tau)$ approximate the dominant eigenvalues of the Markov propagator or Markov backward propagator of the underlying dynamics. 
@@ -38,6 +38,15 @@ The corresponding eigenfunction of the backward propagator is approximated by
 $$
 \psi(x) = \sum_i r_i \chi_i(x)
 $$
+
+### Numerical examples
+  1. Metastable potential from a Gaussian stationary density
+  2. Ritz method with characteristic function (Markov state model)
+  3. Ritz method with a Hermite basis
+  4. Roothaan-Hall method with a Gaussian basis
+  5. Nonlinear optimization
+  6. Quartic potential
+
 ### Paper
    - [Noé, Frank, and Feliks Nuske. "A variational approach to modeling slow processes in stochastic dynamical systems." Multiscale Modeling & Simulation 11.2 (2013): 635-655.](https://epubs.siam.org/doi/abs/10.1137/110858616?casa_token=uwxuLpLlceIAAAAA:eJ-FwlnByXP_kLhUA_xAEbi_AGrejTzaEuaXW3wM8Uq_GAkPw_KK3w1gdPqVO3WWY6DnE-baFOQW) \[[BibTex](https://scholar.googleusercontent.com/scholar.bib?q=info:RhTGZVmWE7UJ:scholar.google.com/&output=citation&scisdr=CgXkEEvhEJeMq7TiUXU:AAGBfm0AAAAAYknnSXW1wyMGIRm2SR6LtN8sa2wE3PeX&scisig=AAGBfm0AAAAAYknnSRp2gIsftp0CyOjZTbgoVfIFyPxE&scisf=4&ct=citation&cd=-1&hl=ja)\]
 
