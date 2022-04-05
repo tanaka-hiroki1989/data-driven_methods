@@ -88,12 +88,12 @@
 ### Code
   - origin [ghorbanimahdi73/GraphVampnet](https://github.com/ghorbanimahdi73/GraphVampNet)
 
+----
 ## DeepGenMSM
 
-### results
-  1. 1D four well Prinz potential 
-  2. alanine dipeptide
 ### Paper
 
 ### Code
   - [amardt/DeepGenMSM](https://github.com/amardt/DeepGenMSM)
+
+### [detail](./deepgenmsm)
