@@ -9,7 +9,7 @@
 </script>
 
 
-## [VAC (Variational approach for conformation dynamics) ](/vac)
+## [VAC (Variational approach for conformation dynamics) ](./vac)
 
 ### Paper
    - [Noé, Frank, and Feliks Nuske. "A variational approach to modeling slow processes in stochastic dynamical systems." Multiscale Modeling & Simulation 11.2 (2013): 635-655.](https://epubs.siam.org/doi/abs/10.1137/110858616?casa_token=uwxuLpLlceIAAAAA:eJ-FwlnByXP_kLhUA_xAEbi_AGrejTzaEuaXW3wM8Uq_GAkPw_KK3w1gdPqVO3WWY6DnE-baFOQW) \[[BibTex]()\]
