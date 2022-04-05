@@ -12,7 +12,7 @@
 ## VAC (Variational approach for conformation dynamics) 
 
 ### Paper
-   - [Noé, Frank, and Feliks Nuske. "A variational approach to modeling slow processes in stochastic dynamical systems." Multiscale Modeling & Simulation 11.2 (2013): 635-655.](https://epubs.siam.org/doi/abs/10.1137/110858616?casa_token=uwxuLpLlceIAAAAA:eJ-FwlnByXP_kLhUA_xAEbi_AGrejTzaEuaXW3wM8Uq_GAkPw_KK3w1gdPqVO3WWY6DnE-baFOQW) \[[BibTex]()\]
+   - [Noé, Frank, and Feliks Nuske. "A variational approach to modeling slow processes in stochastic dynamical systems." Multiscale Modeling & Simulation 11.2 (2013): 635-655.](https://epubs.siam.org/doi/abs/10.1137/110858616?casa_token=uwxuLpLlceIAAAAA:eJ-FwlnByXP_kLhUA_xAEbi_AGrejTzaEuaXW3wM8Uq_GAkPw_KK3w1gdPqVO3WWY6DnE-baFOQW) \[[BibTex](./bibtex/vac.bib)\]
 
 ### Code 
   - origin :  [markovmodel/variational](https://github.com/markovmodel/variational)
@@ -26,8 +26,7 @@
 ## VAMP (Variational approach for Marokov process)
 
 ### Paper 
-  - [Wu, Hao, and Frank Noé. "Variational approach for learning Markov processes from time series data." Journal of Nonlinear Science 30.1 (2020): 23-66.](https://link.springer.com/article/10.1007/s00332-019-09567-y)\[[BibTex](https://scholar.googleusercontent.com/scholar.bib?q=info:lFqWUORfdYEJ:scholar.google.com/&output=citation&scisdr=CgXkEEvhEJeMq7TtHvg:AAGBfm0AAAAAYknoBvg9-0MnwBBYw8z-zyOyYvoUaX1h&scisig=AAGBfm0AAAAAYknoBr-8uwhO_ozQlTzTL2iO78giH7Y1&scisf=4&ct=citation&cd=-1&hl=ja)\]
-
+  - [Wu, Hao, and Frank Noé. "Variational approach for learning Markov processes from time series data." Journal of Nonlinear Science 30.1 (2020): 23-66.](https://link.springer.com/article/10.1007/s00332-019-09567-y)
 ### Code 
   - [markovmodel/PyEMMA](https://github.com/markovmodel/PyEMMA/tree/devel/pyemma)
 
