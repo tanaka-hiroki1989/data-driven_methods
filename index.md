@@ -27,8 +27,9 @@
 
 ### Paper 
   - [Wu, Hao, and Frank Noé. "Variational approach for learning Markov processes from time series data." Journal of Nonlinear Science 30.1 (2020): 23-66.](https://link.springer.com/article/10.1007/s00332-019-09567-y)
+
 ### Code 
-  - [markovmodel/PyEMMA](https://github.com/markovmodel/PyEMMA/tree/devel/pyemma)
+  - pacakge :[markovmodel/PyEMMA](https://github.com/markovmodel/PyEMMA/tree/devel/pyemma)
 
 ### [detail](./vamp)
 
@@ -46,7 +47,7 @@
 ### [detail](./vampnets)
 
 ----
-## SRV (state-free reversible ## VAMP (Variational approach for Marokov process)
+## SRV (state-free reversible
 
 ### Paper 
   - [Chen, Wei, Hythem Sidky, and Andrew L. Ferguson. "Nonlinear discovery of slow molecular modes using state-free reversible VAMPnets." The Journal of chemical physics 150.21 (2019): 214114.](https://aip.scitation.org/doi/abs/10.1063/1.5092521)\[[BibTex](https://scholar.googleusercontent.com/scholar.bib?q=info:E2D8TWgTxmoJ:scholar.google.com/&output=citation&scisdr=CgXkEEvhEJeMq7Ts20Q:AAGBfm0AAAAAYknpw0SMgn52dSDdQCWlFwEI3W4eUAu9&scisig=AAGBfm0AAAAAYknpw_SlbLByDIYPSNUuDtA27nePqo48&scisf=4&ct=citation&cd=-1&hl=ja)\]
@@ -55,9 +56,18 @@
   - origin [hsidky/srv](https://github.com/hsidky/srv)
 
 ### [detail](./srv)
+----
+## Molecular latent space simulator
+
+### Paper
+  - [Sidky, Hythem, Wei Chen, and Andrew L. Ferguson. "Molecular latent space simulators." Chemical Science 11.35 (2020): 9459-9467.](https://pubs.rsc.org/en/content/articlehtml/2020/sc/d0sc03635h)
+
+### Code
+  - [hsidky/srv/tree/newgen](https://github.com/hsidky/srv/tree/newgen/)
 
 ----
-## GDynet(Graph dynamical netowrks)
+## GDynet (Graph dynamical netowrks)
+
 ### Paper
   - [Xie, T., France-Lanord, A., Wang, Y. et al. Graph dynamical networks for unsupervised learning of atomic scale dynamics in materials. Nat Commun 10, 2667 (2019)](https://www.nature.com/articles/s41467-019-10663-6))\[[BibTex]()\]
 
@@ -92,7 +102,7 @@
 
 ### Paper
   - [Wu, Hao, et al. "Deep generative markov state models." Advances in Neural Information Processing Systems 31 (2018)](https://proceedings.neurips.cc/paper/2018/hash/deb54ffb41e085fd7f69a75b6359c989-Abstract.html)
-  
+
 ### Code
   - [amardt/DeepGenMSM](https://github.com/amardt/DeepGenMSM)
 
