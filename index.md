@@ -57,17 +57,17 @@
 ### [detail](./srv)
 
 ----
-## GDynet
+## GDynet(Graph dynamical netowrks)
 ### Paper
-  -\[[BibTex]()\]
+  - [Xie, T., France-Lanord, A., Wang, Y. et al. Graph dynamical networks for unsupervised learning of atomic scale dynamics in materials. Nat Commun 10, 2667 (2019)](https://www.nature.com/articles/s41467-019-10663-6))\[[BibTex]()\]
 
 ### Code
   - origin [txie-93/gdynet](https://github.com/txie-93/gdynet)
 
 ----
-## RPnet
+## RPnet (Reverse projection based neural network)
 ### Paper
-  - \[[BibTex]()\]
+  - [Gu, Hanlin, et al. "RPnet: a reverse-projection-based neural network for coarse-graining metastable conformational states for protein dynamics." Physical Chemistry Chemical Physics (2022).](https://pubs.rsc.org/en/content/articlelanding/2022/CP/D1CP03622J)\[[BibTex]()\]
 
 ### Code 
   - origin [ghl1995/BpNet-limping](https://github.com/ghl1995/BpNet-lumping)
@@ -91,7 +91,8 @@
 ## DeepGenMSM
 
 ### Paper
-
+  - [Wu, Hao, et al. "Deep generative markov state models." Advances in Neural Information Processing Systems 31 (2018)](https://proceedings.neurips.cc/paper/2018/hash/deb54ffb41e085fd7f69a75b6359c989-Abstract.html)
+  
 ### Code
   - [amardt/DeepGenMSM](https://github.com/amardt/DeepGenMSM)
 
