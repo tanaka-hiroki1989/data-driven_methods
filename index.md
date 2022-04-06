@@ -59,6 +59,7 @@
 ----
 ## Molecular latent space simulator
 
+![LSS](https://pubs.rsc.org/image/article/2020/SC/d0sc03635h/d0sc03635h-f1_hi-res.gif)
 ### Paper
   - [Sidky, Hythem, Wei Chen, and Andrew L. Ferguson. "Molecular latent space simulators." Chemical Science 11.35 (2020): 9459-9467.](https://pubs.rsc.org/en/content/articlehtml/2020/sc/d0sc03635h)
 
