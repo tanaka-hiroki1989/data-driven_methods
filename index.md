@@ -37,6 +37,7 @@
 
 ## VAMPnets
 
+![vampnets](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-017-02388-1/MediaObjects/41467_2017_2388_Fig1_HTML.gif?as=webp)
 ### Paper 
   - [Mardt, Andreas, et al. "VAMPnets for deep learning of molecular kinetics." Nature communications 9.1 (2018): 1-11.](https://www.nature.com/articles/s41467-017-02388-1)
   \[[BibTex](https://scholar.googleusercontent.com/scholar.bib?q=info:cdgg75wUJSYJ:scholar.google.com/&output=citation&scisdr=CgXkEEvhEJeMq7TsmrE:AAGBfm0AAAAAYknpgrFU35c_nqh1iymSeVHYftvRQCHg&scisig=AAGBfm0AAAAAYknpgiRKEcrSJWoNiwSJIN7WUzFMBlEo&scisf=4&ct=citation&cd=-1&hl=ja)\]
@@ -117,3 +118,4 @@
 ### Code
   - origin [markovmodel/ivampnets](https://github.com/markovmodel/ivampnets)
   - forked [tanaka-hiroki1989/ivampnets](https://github.com/tanaka-hiroki1989/ivampnets)
+
