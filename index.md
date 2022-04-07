@@ -108,3 +108,12 @@
   - [amardt/DeepGenMSM](https://github.com/amardt/DeepGenMSM)
 
 ### [detail](./deepgenmsm)
+
+----
+## iVAMPnets (independent Markov decomposition with VAMPnets)
+
+### Paper
+  - Preprint [Deep learning to decompose macromolecules into independent Markovian domains](https://www.biorxiv.org/content/10.1101/2022.03.30.486366v1)
+### Code
+  - origin [markovmodel/ivampnets](https://github.com/markovmodel/ivampnets)
+  - forked [tanaka-hiroki1989/ivampnets](https://github.com/tanaka-hiroki1989/ivampnets)
