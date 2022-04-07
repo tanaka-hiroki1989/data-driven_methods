@@ -111,6 +111,16 @@
 ### [detail](./deepgenmsm)
 
 ----
+## DeepRevMSM
+
+### Paper
+  - [Mardt, Andreas, et al. "Deep learning Markov and Koopman models with physical constraints." Mathematical and Scientific Machine Learning. PMLR, 2020.](https://proceedings.mlr.press/v107/mardt20a.html)
+
+### Code
+  - origin [markovmodel/deep_rev_msm](https://github.com/markovmodel/deep_rev_msm)
+  - forked [tanaka-hiroki1989/deep_rev_msm](https://github.com/tanaka-hiroki1989/deep_rev_msm)
+
+----
 ## iVAMPnets (independent Markov decomposition with VAMPnets)
 
 ### Paper
