@@ -10,4 +10,5 @@
   \[[BibTex](https://scholar.googleusercontent.com/scholar.bib?q=info:cdgg75wUJSYJ:scholar.google.com/&output=citation&scisdr=CgXkEEvhEJeMq7TsmrE:AAGBfm0AAAAAYknpgrFU35c_nqh1iymSeVHYftvRQCHg&scisig=AAGBfm0AAAAAYknpgiRKEcrSJWoNiwSJIN7WUzFMBlEo&scisf=4&ct=citation&cd=-1&hl=ja)\]
 
 ### Code 
-  - package [markovmodel/deeptime](https://github.com/markovmodel/deeptime) [[doc]](https://deeptime-ml.github.io/latest/index.html)
+  - origin [markovmodel/deeptime](https://github.com/markovmodel/deeptime) [[doc]](https://deeptime-ml.github.io/latest/index.html)
+  - forked [tanaka-hiroki1989/deeptime](https://github.com/tanaka-hiroki1989/deeptime)

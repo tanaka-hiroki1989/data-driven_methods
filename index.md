@@ -44,7 +44,8 @@
 
 ### Code 
   - origin [markovmodel/deeptime](https://github.com/markovmodel/deeptime)
-
+  - forked [tanaka-hiroki1989/deeptime](https://github.com/tanaka-hiroki1989/deeptime)
+  
 ### [detail](./methods/vampnets)
 
 ----
