@@ -19,7 +19,7 @@
   - forked : [tanaka-hiroki1989/variational](https://github.com/tanaka-hiroki1989/variational)
   - package : [markovmodel/PyEMMA](https://github.com/markovmodel/PyEMMA/tree/devel/pyemma)
 
-### [detail](./vac)
+### [detail](./methods/vac)
 
 ----
 
@@ -31,7 +31,7 @@
 ### Code 
   - pacakge :[markovmodel/PyEMMA](https://github.com/markovmodel/PyEMMA/tree/devel/pyemma)
 
-### [detail](./vamp)
+### [detail](./methods/vamp)
 
 ----
 
@@ -45,7 +45,7 @@
 ### Code 
   - origin [markovmodel/deeptime](https://github.com/markovmodel/deeptime)
 
-### [detail](./vampnets)
+### [detail](./methods/vampnets)
 
 ----
 ## SRV (state-free reversible
@@ -56,7 +56,7 @@
 ### Code
   - origin [hsidky/srv](https://github.com/hsidky/srv)
 
-### [detail](./srv)
+### [detail](./methods/srv)
 ----
 ## Molecular latent space simulator
 
@@ -108,7 +108,7 @@
 ### Code
   - [amardt/DeepGenMSM](https://github.com/amardt/DeepGenMSM)
 
-### [detail](./deepgenmsm)
+### [detail](./methods/deepgenmsm)
 
 ----
 ## DeepRevMSM
