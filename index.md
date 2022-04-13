@@ -99,6 +99,7 @@
 ### Code
   - origin [ghorbanimahdi73/GraphVampnet](https://github.com/ghorbanimahdi73/GraphVampNet)
 
+### [detail](./methods/graphvampnets)
 ----
 ## DeepGenMSM
 
