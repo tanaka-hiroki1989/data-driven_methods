@@ -129,3 +129,7 @@
   - origin [markovmodel/ivampnets](https://github.com/markovmodel/ivampnets)
   - forked [tanaka-hiroki1989/ivampnets](https://github.com/tanaka-hiroki1989/ivampnets)
 
+## Galerkin approximation
+
+# Paper
+  - https://aip.scitation.org/doi/10.1063/1.5063730
